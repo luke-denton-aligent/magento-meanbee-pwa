@@ -5,6 +5,6 @@
   "homepage":"https://github.com/meanbee/magento-meanbee-pwa",
   "description":"Add Progressive Web App features to your Magento store.",
   "require":{
-    "magento-hackathon/magento-composer-installer":"^3.0.0"
+    "magento-hackathon/magento-composer-installer":"2.1.*"
   }
 }
